@@ -33,14 +33,18 @@ Emergency fund awareness
 Budgeting practices
 
 ## Tools & Techniques
-## Data Collection : Google Forms
+## Data Collection 
+Google Forms
 
-## Visualization: Tableau
+## Visualization
+Tableau
 
-## Analysis & Modeling: Python (Pandas, Seaborn, sklearn)
+## Analysis & Modeling
+Python (Pandas, Seaborn, sklearn)
 
-## Model: Simple Linear Regression (Age vs. Investment & Insurance)
+## Model
+Simple Linear Regression (Age vs. Investment & Insurance)
 
- ### Key Insight
+## Key Insight
 Financial literacy improves with age, but younger individuals (<23) show low awareness of investment and insurance—even when earning.
 
